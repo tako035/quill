@@ -22,7 +22,7 @@
     "lodash.isequal": "^4.5.0",
     "lodash.merge": "^4.5.0",
     "parchment": "^3.0.0-alpha.1",
-    "quill-delta": "^5.1.0"
+    "quill-delta": "https://github.com/quilljs/delta.git"
   },
   "devDependencies": {
     "@babel/core": "^7.22.5",
