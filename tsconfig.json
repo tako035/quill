@@ -10,7 +10,8 @@
     "strictNullChecks": true,
     "noImplicitAny": true,
     "verbatimModuleSyntax": true,
-    "noUnusedLocals": true
+    "noUnusedLocals": true,
+    "outDir": "./build"
   },
   "include": ["./**/*"]
 }
